@@ -1,0 +1,72 @@
+2014-12-15 19:58:40 Notice: Notice (8): Undefined index: Cliente in [/var/www/niac/app/Controller/ClientesController.php, line 50]
+Trace:
+ClientesController::search() - APP/Controller/ClientesController.php, line 50
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-12-15 19:58:40 Notice: Notice (8): Undefined index: Cliente in [/var/www/niac/app/Controller/ClientesController.php, line 51]
+Trace:
+ClientesController::search() - APP/Controller/ClientesController.php, line 51
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-12-15 19:58:51 Notice: Notice (8): Undefined index: Cliente in [/var/www/niac/app/Controller/ClientesController.php, line 50]
+Trace:
+ClientesController::search() - APP/Controller/ClientesController.php, line 50
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-12-15 19:58:51 Notice: Notice (8): Undefined index: Cliente in [/var/www/niac/app/Controller/ClientesController.php, line 51]
+Trace:
+ClientesController::search() - APP/Controller/ClientesController.php, line 51
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-12-15 19:58:54 Notice: Notice (8): Undefined index: Cliente in [/var/www/niac/app/Controller/ClientesController.php, line 50]
+Trace:
+ClientesController::search() - APP/Controller/ClientesController.php, line 50
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-12-15 19:58:54 Notice: Notice (8): Undefined index: Cliente in [/var/www/niac/app/Controller/ClientesController.php, line 51]
+Trace:
+ClientesController::search() - APP/Controller/ClientesController.php, line 51
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-12-15 19:59:03 Notice: Notice (8): Undefined index: Cliente in [/var/www/niac/app/Controller/ClientesController.php, line 50]
+Trace:
+ClientesController::search() - APP/Controller/ClientesController.php, line 50
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-12-15 19:59:03 Notice: Notice (8): Undefined index: Cliente in [/var/www/niac/app/Controller/ClientesController.php, line 51]
+Trace:
+ClientesController::search() - APP/Controller/ClientesController.php, line 51
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
